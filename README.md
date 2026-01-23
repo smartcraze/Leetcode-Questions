@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/smartcraze/Leetcode-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/smartcraze/Leetcode-Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/smartcraze/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/smartcraze/Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0090-subsets-ii) |
 ## Backtracking
@@ -39,8 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/smartcraze/Leetcode-Questions/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/smartcraze/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/smartcraze/Leetcode-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
