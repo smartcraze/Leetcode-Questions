@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/smartcraze/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/smartcraze/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/smartcraze/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/smartcraze/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1652-defuse-the-bomb](https://github.com/smartcraze/Leetcode-Questions/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/smartcraze/Leetcode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Backtracking
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/smartcraze/Leetcode-Questions/tree/master/0278-first-bad-version) |
 | [0875-koko-eating-bananas](https://github.com/smartcraze/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/smartcraze/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/smartcraze/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Prefix Sum
 |  |
 | ------- |
