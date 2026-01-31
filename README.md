@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/smartcraze/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/smartcraze/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/smartcraze/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/smartcraze/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1652-defuse-the-bomb](https://github.com/smartcraze/Leetcode-Questions/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/smartcraze/Leetcode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Backtracking
@@ -146,10 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/smartcraze/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/smartcraze/Leetcode-Questions/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/smartcraze/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/smartcraze/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/smartcraze/Leetcode-Questions/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/smartcraze/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
