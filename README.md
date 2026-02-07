@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/smartcraze/Leetcode-Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -214,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/smartcraze/Leetcode-Questions/tree/master/0402-remove-k-digits) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
