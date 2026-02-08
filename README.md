@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/smartcraze/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/smartcraze/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/smartcraze/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/smartcraze/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/smartcraze/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/0707-design-linked-list) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/smartcraze/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/smartcraze/Leetcode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
