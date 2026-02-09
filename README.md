@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/smartcraze/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/smartcraze/Leetcode-Questions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/smartcraze/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/smartcraze/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/smartcraze/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
