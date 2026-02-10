@@ -8,13 +8,13 @@ public:
 
             while (!st.empty() && st.back() > 0 && a < 0) {
                 if (st.back() < -a) {
-                    st.pop_back();          // top explodes
+                    st.pop_back();          
                 } else if (st.back() == -a) {
-                    st.pop_back();          // both explode
+                    st.pop_back();          
                     destroyed = true;
                     break;
                 } else {
-                    destroyed = true;       // current explodes
+                    destroyed = true;       
                     break;
                 }
             }
