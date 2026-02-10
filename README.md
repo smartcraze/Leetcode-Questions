@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/smartcraze/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/smartcraze/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/smartcraze/Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0844-backspace-string-compare](https://github.com/smartcraze/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/smartcraze/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/smartcraze/Leetcode-Questions/tree/master/1544-make-the-string-great) |
 ## Dynamic Programming
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/smartcraze/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/smartcraze/Leetcode-Questions/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/smartcraze/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/smartcraze/Leetcode-Questions/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/smartcraze/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/smartcraze/Leetcode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Stack
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/smartcraze/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/smartcraze/Leetcode-Questions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/smartcraze/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/smartcraze/Leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/smartcraze/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
