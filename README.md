@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/smartcraze/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1652-defuse-the-bomb](https://github.com/smartcraze/Leetcode-Questions/tree/master/1652-defuse-the-bomb) |
+| [2073-time-needed-to-buy-tickets](https://github.com/smartcraze/Leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/smartcraze/Leetcode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Backtracking
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/smartcraze/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/smartcraze/Leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/smartcraze/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/smartcraze/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0867-transpose-matrix) |
+| [2073-time-needed-to-buy-tickets](https://github.com/smartcraze/Leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/smartcraze/Leetcode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
