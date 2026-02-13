@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/smartcraze/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/smartcraze/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/smartcraze/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/smartcraze/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/smartcraze/Leetcode-Questions/tree/master/0647-palindromic-substrings) |
 | [0907-sum-of-subarray-minimums](https://github.com/smartcraze/Leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/smartcraze/Leetcode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/smartcraze/Leetcode-Questions/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/smartcraze/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/smartcraze/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/smartcraze/Leetcode-Questions/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/smartcraze/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/smartcraze/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/smartcraze/Leetcode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/smartcraze/Leetcode-Questions/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/smartcraze/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/smartcraze/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
