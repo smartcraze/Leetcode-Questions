@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/smartcraze/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/smartcraze/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/smartcraze/Leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [0918-maximum-sum-circular-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/smartcraze/Leetcode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/smartcraze/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/smartcraze/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/smartcraze/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/smartcraze/Leetcode-Questions/tree/master/0647-palindromic-substrings) |
 | [0907-sum-of-subarray-minimums](https://github.com/smartcraze/Leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [0918-maximum-sum-circular-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/smartcraze/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/smartcraze/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [2073-time-needed-to-buy-tickets](https://github.com/smartcraze/Leetcode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/smartcraze/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -347,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
