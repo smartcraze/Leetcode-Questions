@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/smartcraze/Leetcode-Questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0090-subsets-ii) |
+| [0152-maximum-product-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/smartcraze/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/smartcraze/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/smartcraze/Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/smartcraze/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/smartcraze/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/smartcraze/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/smartcraze/Leetcode-Questions/tree/master/0647-palindromic-substrings) |
 | [0907-sum-of-subarray-minimums](https://github.com/smartcraze/Leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
