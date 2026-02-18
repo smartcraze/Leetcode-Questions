@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/smartcraze/Leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/smartcraze/Leetcode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/smartcraze/Leetcode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/smartcraze/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/smartcraze/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/smartcraze/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/smartcraze/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/smartcraze/Leetcode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/smartcraze/Leetcode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/smartcraze/Leetcode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/smartcraze/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/smartcraze/Leetcode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/smartcraze/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/smartcraze/Leetcode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/smartcraze/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1652-defuse-the-bomb](https://github.com/smartcraze/Leetcode-Questions/tree/master/1652-defuse-the-bomb) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/smartcraze/Leetcode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/smartcraze/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/smartcraze/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/smartcraze/Leetcode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Matrix
 |  |
 | ------- |
