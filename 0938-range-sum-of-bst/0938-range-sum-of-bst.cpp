@@ -1,28 +1,16 @@
 class Solution {
 public:
     int rangeSumBST(TreeNode* root, int low, int high) {
-        stack<TreeNode*> st;
-        st.push(root);
+        if (root == NULL)
+            return 0;
 
-        int sum = 0;
+        if (root->val < low)
+            return rangeSumBST(root->right, low, high);
 
-        while(!st.empty()){
-            TreeNode* node = st.top();
-            st.pop();
+        if (root->val > high)
+            return rangeSumBST(root->left, low, high);
 
-            if(node == NULL)
-                continue;
-
-            if(node->val >= low && node->val <= high)
-                sum += node->val;
-
-            if(node->val > low)
-                st.push(node->left);
-
-            if(node->val < high)
-                st.push(node->right);
-        }
-
-        return sum;
+        return root->val + rangeSumBST(root->left, low, high) +
+               rangeSumBST(root->right, low, high);
     }
 };
