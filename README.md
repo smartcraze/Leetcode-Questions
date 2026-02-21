@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/smartcraze/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/smartcraze/Leetcode-Questions/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/smartcraze/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/smartcraze/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/smartcraze/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/smartcraze/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/smartcraze/Leetcode-Questions/tree/master/0647-palindromic-substrings) |
 | [0907-sum-of-subarray-minimums](https://github.com/smartcraze/Leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/smartcraze/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/smartcraze/Leetcode-Questions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/smartcraze/Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
+| [0542-01-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0993-cousins-in-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0993-cousins-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
