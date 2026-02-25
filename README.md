@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/smartcraze/Leetcode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/smartcraze/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/smartcraze/Leetcode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/smartcraze/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/smartcraze/Leetcode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1652-defuse-the-bomb](https://github.com/smartcraze/Leetcode-Questions/tree/master/1652-defuse-the-bomb) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/smartcraze/Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/smartcraze/Leetcode-Questions/tree/master/0268-missing-number) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/smartcraze/Leetcode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/smartcraze/Leetcode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/smartcraze/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/smartcraze/Leetcode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/smartcraze/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/smartcraze/Leetcode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/smartcraze/Leetcode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Matrix
 |  |
 | ------- |
