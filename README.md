@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/smartcraze/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/smartcraze/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/smartcraze/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/smartcraze/Leetcode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/smartcraze/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/smartcraze/Leetcode-Questions/tree/master/0739-daily-temperatures) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/smartcraze/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/smartcraze/Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/smartcraze/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/smartcraze/Leetcode-Questions/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0993-cousins-in-binary-tree) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/smartcraze/Leetcode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/smartcraze/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/smartcraze/Leetcode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/smartcraze/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/smartcraze/Leetcode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
