@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/smartcraze/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/smartcraze/Leetcode-Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/smartcraze/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/smartcraze/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/smartcraze/Leetcode-Questions/tree/master/0075-sort-colors) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/smartcraze/Leetcode-Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/smartcraze/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/smartcraze/Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/smartcraze/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
