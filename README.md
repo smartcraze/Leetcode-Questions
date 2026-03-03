@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/smartcraze/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/smartcraze/Leetcode-Questions/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/smartcraze/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/smartcraze/Leetcode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/smartcraze/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/smartcraze/Leetcode-Questions/tree/master/0739-daily-temperatures) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/smartcraze/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0216-combination-sum-iii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/smartcraze/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/smartcraze/Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/smartcraze/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/smartcraze/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/smartcraze/Leetcode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/smartcraze/Leetcode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## String
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/smartcraze/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/smartcraze/Leetcode-Questions/tree/master/0647-palindromic-substrings) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/smartcraze/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0907-sum-of-subarray-minimums](https://github.com/smartcraze/Leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -500,4 +504,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/smartcraze/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/smartcraze/Leetcode-Questions/tree/master/0509-fibonacci-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/smartcraze/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/smartcraze/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
