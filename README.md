@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/smartcraze/Leetcode-Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/smartcraze/Leetcode-Questions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/smartcraze/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/smartcraze/Leetcode-Questions/tree/master/0075-sort-colors) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/smartcraze/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/smartcraze/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/smartcraze/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/smartcraze/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/smartcraze/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/smartcraze/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/smartcraze/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/smartcraze/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
