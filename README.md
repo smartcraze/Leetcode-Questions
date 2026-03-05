@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/smartcraze/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/smartcraze/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0704-binary-search](https://github.com/smartcraze/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/smartcraze/Leetcode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/smartcraze/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/smartcraze/Leetcode-Questions/tree/master/0739-daily-temperatures) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/smartcraze/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/smartcraze/Leetcode-Questions/tree/master/0278-first-bad-version) |
 | [0658-find-k-closest-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/smartcraze/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/smartcraze/Leetcode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/smartcraze/Leetcode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/smartcraze/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
