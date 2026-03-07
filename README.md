@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/smartcraze/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/smartcraze/Leetcode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Hash Table
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/smartcraze/Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/smartcraze/Leetcode-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/smartcraze/Leetcode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/smartcraze/Leetcode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/smartcraze/Leetcode-Questions/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/smartcraze/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/smartcraze/Leetcode-Questions/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/smartcraze/Leetcode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/smartcraze/Leetcode-Questions/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -483,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/smartcraze/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/smartcraze/Leetcode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
