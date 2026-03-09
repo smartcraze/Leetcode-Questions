@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/smartcraze/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/smartcraze/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/smartcraze/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/smartcraze/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/smartcraze/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/smartcraze/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/smartcraze/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/smartcraze/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/smartcraze/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/smartcraze/Leetcode-Questions/tree/master/0278-first-bad-version) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/smartcraze/Leetcode-Questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/smartcraze/Leetcode-Questions/tree/master/0713-subarray-product-less-than-k) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/smartcraze/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/smartcraze/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0867-transpose-matrix) |
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/smartcraze/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/smartcraze/Leetcode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/smartcraze/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/smartcraze/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
