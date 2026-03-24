@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/smartcraze/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/smartcraze/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/smartcraze/Leetcode-Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/smartcraze/Leetcode-Questions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/smartcraze/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/smartcraze/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/smartcraze/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/smartcraze/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/smartcraze/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/smartcraze/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/smartcraze/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/smartcraze/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/smartcraze/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0680-valid-palindrome-ii) |
 ## Design
