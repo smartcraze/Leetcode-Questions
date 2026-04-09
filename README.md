@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/smartcraze/Leetcode-Questions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/smartcraze/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/smartcraze/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/smartcraze/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/smartcraze/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/smartcraze/Leetcode-Questions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/smartcraze/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/smartcraze/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/smartcraze/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/smartcraze/Leetcode-Questions/tree/master/0268-missing-number) |
@@ -612,4 +614,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/smartcraze/Leetcode-Questions/tree/master/1584-min-cost-to-connect-all-points) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/smartcraze/Leetcode-Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
