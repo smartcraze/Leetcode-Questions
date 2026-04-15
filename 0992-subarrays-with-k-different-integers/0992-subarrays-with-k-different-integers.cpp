@@ -1,27 +1,23 @@
 class Solution {
 public:
+    int subarraysWithKDistinct(vector<int>& nums, int k) {
+        return atmost(nums, k) - atmost(nums, k - 1);
+    }
     int atmost(vector<int>& nums, int k) {
-        int n = nums.size();
-        int l = 0;
-        long long count = 0;
-        unordered_map<int,int> mp;
-
-        for(int r = 0; r < n; r++) {
-            mp[nums[r]]++;
-
-            while(mp.size() > k) {
-                mp[nums[l]]--;
-                if(mp[nums[l]] == 0)
-                    mp.erase(nums[l]);
-                l++;
+        unordered_map<int, int> mp;
+        int count = 0;
+        int left = 0;
+        for (int right = 0; right < nums.size(); right++) {
+            mp[nums[right]]++;
+            while (mp.size() > k) {
+                mp[nums[left]]--;
+                if (mp[nums[left]] == 0) {
+                    mp.erase(nums[left]);
+                }
+                left++;
             }
-
-            count += (r - l + 1);
+            count += (right - left + 1);
         }
         return count;
-    }
-
-    int subarraysWithKDistinct(vector<int>& nums, int k) {
-        return atmost(nums, k) - atmost(nums, k-1);
     }
 };
