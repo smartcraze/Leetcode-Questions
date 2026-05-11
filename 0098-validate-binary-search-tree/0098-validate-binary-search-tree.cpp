@@ -17,3 +17,14 @@ public:
         return true;
     }
 };
+
+
+/* 
+
+I needed to validate the Binary tree and i wanted to check if everythings is corect right 
+
+if i would have went thourght the recureiosn it would be som uch tough and thinking 
+
+The property which is the inorder traversal is sorted at last so i checked if the conditions fails it mean its not a validate tree
+
+ */
