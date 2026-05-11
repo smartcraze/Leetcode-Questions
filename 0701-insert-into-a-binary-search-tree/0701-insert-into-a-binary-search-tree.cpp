@@ -16,7 +16,6 @@ public:
 
         if (!root)
             return new TreeNode(val);
-        TreeNode* node = new TreeNode(val);
         if (root->val > val) {
             root->left = insertIntoBST(root->left, val);
         } else {
