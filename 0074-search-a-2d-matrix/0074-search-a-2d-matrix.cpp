@@ -8,13 +8,8 @@ public:
         while (row < m && col >= 0) {
             if (matrix[row][col] == target) {
                 return true;
-            }
-            else if (matrix[row][col] > target) {
-                col--;   // move left
-            }
-            else {
-                row++;   // move down
-            }
+            } else if(matrix[row][col] > target) { col--; }
+            else row++;
         }
         return false;
     }
