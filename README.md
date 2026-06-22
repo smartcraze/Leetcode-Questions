@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/smartcraze/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0907-sum-of-subarray-minimums](https://github.com/smartcraze/Leetcode-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1227-airplane-seat-assignment-probability](https://github.com/smartcraze/Leetcode-Questions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/smartcraze/Leetcode-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sorting
 |  |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/smartcraze/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/smartcraze/Leetcode-Questions/tree/master/0523-continuous-subarray-sum) |
+| [1227-airplane-seat-assignment-probability](https://github.com/smartcraze/Leetcode-Questions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/smartcraze/Leetcode-Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/smartcraze/Leetcode-Questions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Recursion
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/smartcraze/Leetcode-Questions/tree/master/0292-nim-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/smartcraze/Leetcode-Questions/tree/master/1227-airplane-seat-assignment-probability) |
 ## Game Theory
 |  |
 | ------- |
@@ -702,4 +705,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/smartcraze/Leetcode-Questions/tree/master/0561-array-partition) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/smartcraze/Leetcode-Questions/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
