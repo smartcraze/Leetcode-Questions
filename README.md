@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/smartcraze/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/smartcraze/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/smartcraze/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/smartcraze/Leetcode-Questions/tree/master/0292-nim-game) |
 | [0445-add-two-numbers-ii](https://github.com/smartcraze/Leetcode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/smartcraze/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/smartcraze/Leetcode-Questions/tree/master/0523-continuous-subarray-sum) |
@@ -686,4 +687,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/smartcraze/Leetcode-Questions/tree/master/0062-unique-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/smartcraze/Leetcode-Questions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/smartcraze/Leetcode-Questions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
